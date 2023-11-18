@@ -1,0 +1,234 @@
+/* FONT FAMILY */
+
+
+/* body{
+    font-family: cursive;
+}
+h1{
+    font-family: monospace;
+}
+
+.credits {
+    font-family: "Courier New", Courier, 
+    monospace;} */
+
+
+
+
+
+/* FONT SIZE */
+/* PIXEL */
+
+    /* p{
+        font-size: 30px;
+    } */
+
+    /* DEFAULT SIZE */
+
+    /* P{
+        font-size: 3em;
+    } */
+
+
+
+
+
+
+    /* @FONT-FACE  */
+/* 
+    @font-face {
+        font-family: 'wali';
+        src: url(./font-face/Pacifico-Regular.ttf);
+    }
+    h1{
+        font-family: wali;
+    } */
+
+
+
+
+
+
+
+    /* FONT WEIGHT */
+
+    /* p{
+        font-weight: 900;
+    } */
+    
+
+    /* FONT STYLE */
+
+    /* h1{
+        font-style: normal;
+    }
+    h1{
+        font-style: italic;
+    }
+    h1{
+        font-style: oblique;
+    } */
+
+
+
+    /* TEXT TRANSFORM */
+    /* HELLO GUYS <= UPPER CASE */
+    /* my name is <= lower case  */
+    /* Aziz Ur Rahman <= Capitalized */
+
+
+
+    /* #name{
+        text-transform: uppercase;
+    }
+    #Aziz Ur{
+        text-transform: lowercase;
+    }
+    #Rahman{
+        text-transform: capitalize;
+    } */
+
+
+
+    /* TEXT DICORATION  THROUGH [ID SELECTOR] */
+
+    /* #underline{
+        text-decoration: underline;
+    }
+
+    #overline{
+        text-decoration: overline;
+    }
+
+    #line-through{
+        text-decoration: line-through;
+    }
+
+    #blink{
+        text-decoration: blink;
+    } */
+
+
+    /* LINE HEIGHT/LEADING */
+    /* h1{
+        line-height: 100px
+    }
+     */
+
+
+/* LETTER     SPACING */
+/* h1{
+    word-spacing: 3em;
+} */
+
+
+/* L E T T E R   S P A C I N G */
+
+/* h1{
+    letter-spacing: 30px;
+} */
+
+
+/* TEXT ALIGNMENT */
+
+/* h1{
+    text-align: center;
+}*/
+
+/* p{
+    text-align: justify;
+} */
+
+
+
+/* VERTICAL ALIGNMENT */
+/* img{
+    vertical-align: text-top;
+} */
+
+/* TEXT INDENT */
+/* p{
+    text-indent: 210px ;
+    text-align: justify;
+} */
+
+/* Text Shadow */
+
+/* p{
+    background-color: #eeeeee;
+    color: #666666;
+    text-shadow: 1px 1px 1px #000000;
+} */
+
+/*FIRST LETTER OR FIRST LINE */
+
+/* p::first-letter{
+    color: red;
+} */
+
+/* p::first-line{
+    color: blue;
+} */
+
+/* Styling LInk */
+/* a:link{
+    color: green;
+}
+a:visited{
+    color: red;
+} */
+
+/* Responding to user */
+/* hover */
+/* input.btn:hover{
+    background-color: red;
+}
+input.btn:active{
+    background-color: wheat;
+} */
+
+/* input.btn:focus{
+    background-color: blue;
+} */
+
+/* input.textbox:focus{
+    background-color: black;
+    color: wheat;
+} */
+
+/* atribute selector */
+
+/* exsentence */
+
+/* h1[test]{
+    color: red;
+} */
+
+/* equility */
+
+/* h1[test="hi"]{
+    color: blue;
+} */
+
+/* Space */
+
+/* h1[test~="hi"]{
+    color: red;
+} */
+
+/* prefix */
+
+/* h1[tes^="hi"]{
+    color: red;
+} */
+
+/* substring */
+
+/* h1[test*="ll"]{
+    color: red;
+} */
+
+/* sufix */
+h1[test$="l"]{
+    color: red;
+}
